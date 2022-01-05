@@ -1,6 +1,6 @@
 const obj = {
-    nome: "james",
-    idade: "36"
+	nome: "james",
+	idade: "36"
 }
 
 const newObj = Object.entries(obj);
